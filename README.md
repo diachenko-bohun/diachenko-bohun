@@ -26,4 +26,4 @@ I am passionate of cutting edge web development tech. My goal is to write perfec
 
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat&logo=digitalocean) ![AppStore](https://img.shields.io/badge/-AppStore-black?style=flat&logo=appstore&logoColor=fff) ![Google Play](https://img.shields.io/badge/-Google%20Play-white?style=flat&logo=googleplay&logoColor=green) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diachenko-bohun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diachenko-bohun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
